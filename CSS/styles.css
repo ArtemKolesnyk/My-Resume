@@ -112,11 +112,8 @@ body {
     color: white;
     margin-bottom: 10px;
 }
-.img-photo_2021-04-17_21-05-02.jpg {
-    width: 370px;
-    height: 354px;
-    left: 40px;
-    top: 80px;
+.sidebar-img {
+    margin-left: 27px;
 }
 /* contacts-section */
 .contacts-section-list {
